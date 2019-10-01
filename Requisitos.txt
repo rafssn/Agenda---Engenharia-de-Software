@@ -1,0 +1,17 @@
+# Agenda---Engenharia-de-Software
+Agenda - Trabalho de Engenharia de Software
+O trabalho será pautado em um sistema de agendamento de provas para empresas de ensino à distância (EAD), que contará com a inclusão direta dos usuários para agendamento e consulta de dados do sistema. As ações do usuário serão limitadas, tendo em vista que os cursos ofertados à distância oferecem assim como cursos presenciais, a necessidade de acompanhamento em várias provas, portanto o aluno só poderá agendar uma prova caso ele esteja em dia com os pagamentos, estar aprovado na prova precedente e também estar obedecendo um tempo mínimo entre a efetuação de uma prova para a outra, tempo esse necessário para garantir que o aluno se prepare devidamente para a próxima prova. 
+Esses então, serão todos os pré-requisitos de informação dos usuários para efetuar o funcionamento do sistema:
+- Cadastro pessoal (nome, CPF, e-mail, data de nascimento e senha);
+- Histórico do aluno (curso optado pelo aluno, histórico de pagamento e histórico de provas);
+- Agendamento (polo de realização da prova presencial ‘tendo em vista que a empresa pode oferecer mais de um polo de ensino’, data, horário e a prova específica);
+
+Como o ambiente dessa empresa de ensino permitirá a ferramenta para o uso direto para os usuários, a ferramenta será online e disponível nas plataformas app e web, feito em JavaScript, utilizando a forma híbrida para aplicativos, tanto IOS quanto em Android, por meio do Cordova.
+Os dados serão relacionados por meio de um banco de dados relacional da empresa, em nuvem, utilizando a AWS.
+
+Na questão visual, será optado por telas simples e explicativas, afim de auto instruir os usuários e evitar futuros problemas para a área de suporte.
+- Contará com a tela de login e redefinição de senha;
+- Ao efetuar login contará com uma página inicial com os dados do aluno e a opção de consultar histórico, agendar provas, consultar agendamentos, consultar e alterar dados pessoais, opção de ajuda e a opção sair.
+- A página de agendamento de provas contará com um status de permissão para o agendamento da prova, tendo em vista os requisitos pessoais do aluno, sendo, só assim, possível o agendamento de prova se o status estiver como liberado.
+- A aba consultar agendamentos dará a possibilidade de cancelar provas já marcadas.
+- Cores embasadas no verde, azul e branco.
