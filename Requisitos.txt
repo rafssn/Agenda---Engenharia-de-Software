@@ -1,7 +1,9 @@
 O trabalho será pautado em um sistema de agendamento de provas para empresas de ensino à distância (EAD), que contará com a
 inclusão direta dos usuários para agendamento e consulta de dados do sistema. As ações do usuário serão limitadas, tendo em
 vista que os cursos ofertados à distância oferecem assim como cursos presenciais, a necessidade de acompanhamento em várias
-provas, portanto o aluno só poderá agendar uma prova caso ele esteja em dia com os pagamentos e também estar obedecendo um tempo mínimo entre a efetuação de uma prova para a outra, tempo esse necessário para garantir que o aluno se prepare devidamente para a próxima prova. 
+provas, portanto o aluno só poderá agendar uma prova caso ele esteja em dia com os pagamentos e também estar obedecendo um
+tempo mínimo entre a efetuação de uma prova para a outra, tempo esse necessário para garantir que o aluno se prepare
+devidamente para a próxima prova. 
 Esses então, serão todos os pré-requisitos de informação dos usuários para efetuar o funcionamento do sistema:
 - Cadastro pessoal (nome, CPF, e-mail e senha);
 - Histórico do aluno (curso optado pelo aluno, histórico de pagamento e histórico de provas);
@@ -18,6 +20,8 @@ para a área de suporte.
 - Contará com a tela de login e redefinição de senha;
 - Ao efetuar login contará com uma página inicial com todas as opções disponíveis no app, agendar provas,
 consultar agendamentos, consultar e alterar dados pessoais e a opção sair.
-- A página de agendamento de provas dará uma mensagem ao usuário se poderá ou não haver o agendamento da prova no dia e horário solicitado, tendo em vista os requisitos pessoais do aluno, sendo, só assim, possível o agendamento de prova se o status estiver disponível.
+- A página de agendamento de provas dará uma mensagem ao usuário se poderá ou não haver o agendamento da prova no dia e horário
+solicitado, tendo em vista os requisitos pessoais do aluno, sendo, só assim, possível o agendamento de prova se o status
+estiver disponível.
 - A aba consultar agendamentos dará a possibilidade de cancelar provas já marcadas.
 - Cores embasadas em azul e branco.
