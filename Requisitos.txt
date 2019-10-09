@@ -12,7 +12,7 @@ data, horário e a prova específica);
 
 Como o ambiente dessa empresa de ensino permitirá a ferramenta para o uso direto para os usuários, a ferramenta será online e
 disponível nas plataformas app e web, utilizando a forma híbrida para aplicativos, tanto IOS quanto em
-Android, por meio do Cordova.
+Android.
 Os dados serão relacionados por meio de um banco de dados relacional da empresa, em nuvem, utilizando a AWS.
 
 Na questão visual, será optado por telas simples e explicativas, afim de auto instruir os usuários e evitar futuros problemas
