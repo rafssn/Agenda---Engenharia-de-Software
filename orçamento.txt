@@ -1,0 +1,17 @@
+Cálculo por ponto de função;
+Linguagem JavaScript Interpretador Node;
+Métrica do Software:
+    complexidade:             PF's:        tempo aprox:    
+                    baixa         2              1 h     7x(telas e design simples)
+                                  
+                    média         5              2 h     2x(hospedagem e estruturação)
+                         
+                    alta          7              3 h     1x(banco de dados, agenda e notas)
+                    
+         (workana)  25U$D/h Node.js e MySql; x 55 (soma de horas agregadas através dos pontos de função); = R$:5693 
+         (workana)  7U$D/h  Design das telas; x 14 (soma de horas agregadas através dos pontos de função); = R$:1796
+                    R$379/mês hospedagem do Banco de Dados microsoft azure;
+                    R$409,86 preço para subir o app para a AppStore(Apple);
+                    R$104 preço para subir o app para a GooglePlay(Android);
+                    Preço Final com a fatia da empresa: R$10.058,40;
+                    Preço de manutenção mês(6% do valor do projeto + mensalidades de hospedagem):R$916;
